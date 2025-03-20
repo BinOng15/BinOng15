@@ -1,5 +1,5 @@
-# 💫About Me :
-💻 Hi guys, I'm Hưng - Fullstack Developer ⚽
+            # 💫About Me :
+💻 **Hi guys, I'm Bin - Fullstack Developer** ⚽
 
 
 ## 🌐Socials
