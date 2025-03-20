@@ -1,5 +1,6 @@
-            # 💫About Me :
-💻 **Hi guys, I'm Bin - Fullstack Developer** ⚽
+.
+                                                                                    <>      # 💫About Me :    </>
+                                                                            💻 **Hi guys, I'm Bin - Fullstack Developer** ⚽
 
 
 ## 🌐Socials
