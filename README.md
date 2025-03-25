@@ -1,22 +1,120 @@
-# 💫About Me :
-                  💻 **Hi guys! I'm Bin, a Fullstack Developer** ⚽
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=6CABDD¢er=true&vCenter=true&width=800&lines=Hi,+I'm+Bin!;Welcome+to+My+GitHub+Profile!" alt="Bin"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=6CABDD¢er=true&vCenter=true&width=800&lines=Passionate+Fullstack+Developer" alt="Description"/>
+</p>
 
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hung.vinh.293/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17839205) 
-
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=BinOng15&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BinOng15&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BinOng15&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=BinOng15&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-hung.vinh.293-6CABDD?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-17839205-1C2526?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BinOng15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2 align="center">🛠️ My Skills and Tools</h2>
+
+<h3>👨‍💻 Programming Languages</h3>
+<p align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white&style=for-the-badge">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>🧰 Frontend Development</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB&style=for-the-badge">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white&style=for-the-badge">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge">
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB.svg?logo=material-ui&logoColor=white&style=for-the-badge">
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?logo=ant-design&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>🧰 Backend Development</h3>
+<p align="center">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net&logoColor=white&style=for-the-badge">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=white&style=for-the-badge">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&logoColor=white&style=for-the-badge">
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D42029.svg?logo=apache&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>💻 Databases</h3>
+<p align="center">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white&style=for-the-badge">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00F.svg?logo=mysql&logoColor=white&style=for-the-badge">
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5.svg?logo=firebase&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>☁️ Hosting Platforms</h3>
+<p align="center">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6.svg?logo=azure-devops&logoColor=white&style=for-the-badge">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>💄️ Software & Tools</h3>
+<p align="center">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-Clojure.svg?logo=swagger&logoColor=white&style=for-the-badge">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0A0FFF.svg?logo=jira&logoColor=white&style=for-the-badge">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-026AA7.svg?logo=Trello&logoColor=white&style=for-the-badge">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge">
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white&style=for-the-badge">
+</p>
+
+---
+
+<h2 align="center">🌟 GitHub Profile Highlights</h2>
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img 
+      alt="Bin's Streak Stats" 
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=your-username&theme=dark&hide_border=true&background=1C2526&stroke=6CABDD&ring=6CABDD&fire=6CABDD&currStreakLabel=6CABDD" 
+      height="192px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Bin's GitHub Stats" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=your-username&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD" 
+      height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Bin's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD" 
+      height="192px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img 
+      alt="Bin's GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Bin%27s%20GitHub%20Activity%20Graph&bg_color=1C2526&color=6CABDD&line=6CABDD&point=6CABDD&area_color=FFFFFF&title_color=6CABDD&area=true" 
+      height="250px"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">📫 Let's Connect!</h2>
+<p align="center">
+  <a href="https://facebook.com/hung.vinh.293">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-6CABDD?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://stackoverflow.com/users/17839205">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-6CABDD?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+</p>
