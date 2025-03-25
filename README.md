@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-hung.vinh.293-6CABDD?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-DTVH-6CABDD?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-hungvinhjr6@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-17839205-1C2526?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-StackOverflow-1C2526?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
 </p>
 
@@ -125,5 +125,8 @@
   </a>
   <a href="https://stackoverflow.com/users/17839205">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-6CABDD?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="mailto:hungvinhjr6@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
