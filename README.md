@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=6CABDD&center=true&vCenter=true&width=800&lines=Building+the+Web,+One+Line+at+a+Time" alt="Typing SVG"/>
 </div>
 
+<br/>
+
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-DTVH-6CABDD?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-hungvinhjr6@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
@@ -21,7 +23,6 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white&style=for-the-badge">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
 </p>
@@ -58,16 +59,17 @@
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>💄️ Software & Tools</h3>
+<h3>💄 Software & Tools</h3>
 <p align="center">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge">
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-Clojure.svg?logo=swagger&logoColor=white&style=for-the-badge">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black&style=for-the-badge">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0A0FFF.svg?logo=jira&logoColor=white&style=for-the-badge">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-026AA7.svg?logo=Trello&logoColor=white&style=for-the-badge">
   <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge">
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white&style=for-the-badge">
 </p>
+
 
 ---
 
