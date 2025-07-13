@@ -46,8 +46,7 @@
 
 <h3>💻 Databases</h3>
 <p align="center">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white&style=for-the-badge">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00F.svg?logo=mysql&logoColor=white&style=for-the-badge">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=for-the-badge">
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5.svg?logo=firebase&logoColor=white&style=for-the-badge">
 </p>
