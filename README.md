@@ -116,8 +116,12 @@
 <h2 align="center" style="color: #6CABDD;">🔥 Featured Repositories</h2>
 <div align="center" style="background: #1C2526; padding: 20px; border: 2px solid #6CABDD; border-radius: 10px; box-shadow: 0 0 10px #6CABDD; width: 50%;">
   <p style="color: #FFFFFF; font-weight: bold;">Check out my proudest projects:</p>
-  <a href="https://github.com/BinOng15/VaccineWeb_Typescript_TailwindCss"><img src="https://img.shields.io/badge/VaccineWeb-6CABDD?style=flat-square&logo=github&logoColor=white" alt="VaccineWeb"/></a>
-  <a href="https://github.com/BinOng15/repo2](https://github.com/BinOng15/Backend-API-ASP.Net-Core-FootballStore"><img src="https://img.shields.io/badge/Backend-API-6CABDD?style=flat-square&logo=github&logoColor=white" alt="Backend-API"/></a>
+  <a href="https://github.com/BinOng15/VaccineWeb_Typescript_TailwindCss"><img src="https://img.shields.io/badge/VaccineWeb-6CABDD?style=flat-square&logo=github&logoColor=white" alt="VaccineWeb-TypeScript"/></a>
+  <a href="https://github.com/BinOng15/PetVax">
+    <img src="https://img.shields.io/badge/PetVax-6CABDD?style=flat-square&logo=github&logoColor=white" alt="PetVax"/>
+  </a>
+  
+  
 </div>
 
 <h2 align="center">📫 Let's Connect!</h2>
