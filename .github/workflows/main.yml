@@ -1,22 +1,30 @@
-name: CI
+name: Check code & Update README
 
 on:
   push:
     branches: ["main"]
-  pull_request:
-    branches: ["main"]
+  schedule:
+    - cron: "0 */6 * * *" # 6 tiếng 1 lần
+  workflow_dispatch:
 
 jobs:
-  build:
+  check-and-update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
-      - name: Thiết lập Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - name: Cài dependencies
-        run: npm ci
-      - name: Chạy test
-        run: npm test
+      - name: Check code (dummy)
+        run: echo "No code to check in this repo"
+      - name: Update README with repo stats
+        run: |
+          curl -s https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100 | jq '.[] | "- [\(.name)](\(.html_url)) (\(.stargazers_count) ⭐)"' | sed 's/^/ /' > repos.md
+          echo "# Hi 👋" > README.md
+          echo "" >> README.md
+          echo "## My public repositories:" >> README.md
+          cat repos.md >> README.md
+      - name: Commit & Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Auto-update README with repo stats"
+          git push
