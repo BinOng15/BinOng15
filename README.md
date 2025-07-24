@@ -84,13 +84,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/BinOng15">
     <img 
       alt="Bin's GitHub Stats" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BinOng15&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD" 
       height="192px"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/BinOng15">
     <img 
       alt="Bin's Top Languages" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BinOng15&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD" 
