@@ -1,30 +1,17 @@
-name: Check code & Update README
-
-on:
-  push:
-    branches: ["main"]
-  schedule:
-    - cron: "0 */6 * * *" # 6 tiếng 1 lần
-  workflow_dispatch:
-
 jobs:
-  check-and-update:
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Check code (dummy)
-        run: echo "No code to check in this repo"
-      - name: Update README with repo stats
-        run: |
-          curl -s https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100 | jq '.[] | "- [\(.name)](\(.html_url)) (\(.stargazers_count) ⭐)"' | sed 's/^/ /' > repos.md
-          echo "# Hi 👋" > README.md
-          echo "" >> README.md
-          echo "## My public repositories:" >> README.md
-          cat repos.md >> README.md
-      - name: Commit & Push if changed
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "Auto-update README with repo stats"
-          git push
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: <your username>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
