@@ -75,7 +75,7 @@
 <h2 align="center">🌟 GitHub Profile Highlights</h2>
 
 <p align="center">
-  <a href="https://github.com/BinOng15">
+  <a href="[https://github.com/BinOng15](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=BinOng15&theme=dark&hide_border=true&background=1C2526&stroke=6CABDD&ring=6CABDD&fire=6CABDD&currStreakLabel=6CABDD)">
     <img 
       alt="Bin's Streak Stats" 
       src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=BinOng15&theme=dark&hide_border=true&background=1C2526&stroke=6CABDD&ring=6CABDD&fire=6CABDD&currStreakLabel=6CABDD" 
@@ -84,13 +84,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BinOng15">
+  <a href="[https://github.com/BinOng15](https://denvercoder1-github-readme-stats.vercel.app/api/?username=BinOng15&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD)">
     <img 
       alt="Bin's GitHub Stats" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BinOng15&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD" 
       height="192px"/>
   </a>
-  <a href="https://github.com/BinOng15">
+  <a href="[https://github.com/BinOng15](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BinOng15&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD)">
     <img 
       alt="Bin's Top Languages" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BinOng15&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1C2526&title_color=6CABDD&icon_color=6CABDD" 
@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BinOng15">
+  <a href="[https://github.com/BinOng15](https://github-readme-activity-graph.vercel.app/graph?username=BinOng15&custom_title=Bin%27s%20GitHub%20Activity%20Graph&bg_color=1C2526&color=6CABDD&line=6CABDD&point=6CABDD&area_color=FFFFFF&title_color=6CABDD&area=true)">
     <img 
       alt="Bin's GitHub Activity Graph"
       src="https://github-readme-activity-graph.vercel.app/graph?username=BinOng15&custom_title=Bin%27s%20GitHub%20Activity%20Graph&bg_color=1C2526&color=6CABDD&line=6CABDD&point=6CABDD&area_color=FFFFFF&title_color=6CABDD&area=true" 
