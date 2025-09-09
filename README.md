@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #6CABDD;">👋 Hey, I'm Bin!</h1>
-  <p style="font-size: 18px; color: #FFFFFF;">A Fullstack Developer with a passion for coding & football ⚽</p>
+  <p style="font-size: 18px; color: #FFFFFF;">A Fullstack Developer with a passion for coding and learning</p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=6CABDD&center=true&vCenter=true&width=800&lines=Building+the+Web,+One+Line+at+a+Time" alt="Typing SVG"/>
 </div>
 
@@ -8,8 +8,7 @@
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-DTVH-6CABDD?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-hungvinhjr6@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-StackOverflow-1C2526?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-dtvhforwork@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
 </p>
 
