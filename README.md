@@ -19,11 +19,19 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white&style=for-the-badge">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>🧰 Backend Development</h3>
+<p align="center">
+  <img alt="ASP .NET" src="https://img.shields.io/badge/ASP .NET-5C2D91.svg?logo=.net&logoColor=white&style=for-the-badge">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&logoColor=white&style=for-the-badge">
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D42029.svg?logo=apache&logoColor=white&style=for-the-badge">
+  <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-68217A.svg?logo=ef&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>🧰 Frontend Development</h3>
@@ -35,19 +43,12 @@
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?logo=ant-design&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>🧰 Backend Development</h3>
-<p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net&logoColor=white&style=for-the-badge">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=white&style=for-the-badge">
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&logoColor=white&style=for-the-badge">
-  <img alt="Apache" src="https://img.shields.io/badge/Apache-D42029.svg?logo=apache&logoColor=white&style=for-the-badge">
-</p>
-
 <h3>💻 Databases</h3>
 <p align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=for-the-badge">
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5.svg?logo=firebase&logoColor=white&style=for-the-badge">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>☁️ Hosting Platforms</h3>
@@ -59,13 +60,16 @@
 
 <h3>💄 Software & Tools</h3>
 <p align="center">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge">
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black&style=for-the-badge">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0A0FFF.svg?logo=jira&logoColor=white&style=for-the-badge">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-026AA7.svg?logo=Trello&logoColor=white&style=for-the-badge">
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge">
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white&style=for-the-badge">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge">
 </p>
 
 
